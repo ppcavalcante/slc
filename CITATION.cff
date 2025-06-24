@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Structure-Logic-Computation (SLC) Theorem Implementation"
+abstract: "A Racket implementation of the Structure-Logic-Computation theorem, which extends the Curry-Howard-Lambek correspondence by showing that any Lawvere theory canonically generates both an equational-logic category (proofs) and a computation category (rewrite paths)."
+authors:
+  - family-names: "Cavalcante"
+    given-names: "Pedro"
+    email: "ppacavalcante@gmail.com"
+    orcid: "https://orcid.org/0009-0004-4207-0485"
+repository-code: "https://github.com/ppcavalcante/slc"
+url: "https://github.com/ppcavalcante/slc"
+license: MIT
+version: "0.1.0-alpha"
+date-released: 2025-06-21
+doi: "10.5281/zenodo.15724304"  # Will be updated after Zenodo publication
+keywords:
+  - "category theory"
+  - "algebraic theories"
+  - "Curry-Howard correspondence"
+  - "term rewriting"
+  - "equational logic"
+  - "Lawvere theories"
+  - "automated theorem proving"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cavalcante"
+      given-names: "Pedro"
+      email: "ppacavalcante@gmail.com"
+      orcid: "https://orcid.org/0009-0004-4207-0485"
+  title: "Extending Curry-Howard-Lambek: The Structure-Logic-Computation (SLC) Theorem"
+  year: 2025 
+  doi: "10.5281/zenodo.15724275" 
+  url: "https://doi.org/10.5281/zenodo.15724275" 
